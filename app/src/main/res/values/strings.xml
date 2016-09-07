@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Configuração</string>
+    <string name="action_fotos">Exibir fotos</string>
+    <string name="action_videos">Exibir videos</string>
+
+</resources>
